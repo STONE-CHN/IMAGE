@@ -1,2 +1,2 @@
 # IMAGE
-As my blog's picture-store
+As my blog's picture-store.
